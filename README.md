@@ -1,4 +1,4 @@
-#💳 Desafio Backend PicPay
+# 💳 Desafio Backend PicPay
 
 Este projeto consiste no desenvolvimento de uma API RESTful para uma plataforma de pagamentos simplificada, onde usuários podem cadastrar carteiras, realizar transferências e receber notificações.
 
